@@ -1,0 +1,28 @@
+yellow=()
+BGR:
+lowerRed = np.array([24, 12, 63])
+upperRed = np.array([81, 56, 142])
+
+lowerYellow = np.array([27, 116, 126])
+upperYellow = np.array([82, 177, 200])
+
+
+HSV:
+lowerRed = np.array([166, 46, 75])
+upperRed = np.array([179, 190, 210])
+
+lowerYellow = np.array([1, 91, 105])
+upperYellow = np.array([31, 221, 190])
+
+HSV2:
+lowerRed = np.array([166, 70, 75])
+upperRed = np.array([179, 255, 210])
+
+lowerYellow = np.array([1, 91, 105])
+upperYellow = np.array([31, 221, 190])
+HSV3:
+lowerRed = np.array([166, 70, 75])
+upperRed = np.array([179, 255, 210])
+
+lowerYellow = np.array([20, 150, 105])
+upperYellow = np.array([31, 255, 220])
